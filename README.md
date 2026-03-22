@@ -1,5 +1,5 @@
 # FUTURE_CS_01
-# Vulnerability Rssessment Report
+# Vulnerability Assessment Report
 
 This project contains a security assessment conducted using Nmap and OWASP ZAP
 
