@@ -12,5 +12,5 @@ This project contains a security assessment conducted using Nmap and OWASP ZAP
 -Missing Security Headers
 -XSS vulnerability
 
-##Author
+# Author
 MBAIRESSEM DJEGOLNE CAIPHE (Cybersecurity Analyst)
